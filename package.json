@@ -1,0 +1,15 @@
+{
+  "name": "microsoftbot",
+  "version": "1.0.0",
+  "description": "my first Microsoft Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matteo",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.5.4",
+    "restify": "^4.3.0"
+  }
+}
